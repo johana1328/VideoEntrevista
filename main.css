@@ -3,7 +3,7 @@ html,body{
 }
 
 .header-container{
-    min-height: 100px;
+    min-height: 65px;
 
 }
 
@@ -17,4 +17,11 @@ html,body{
     height: 100%;
     padding-top: 2%;
     
+}
+
+p.time{
+    margin-bottom:0px!important;
+}
+.container-video, .container-chat{
+    height:80%;
 }
