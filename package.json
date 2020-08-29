@@ -1,0 +1,18 @@
+{
+  "name": "videoentrevista",
+  "version": "1.0.0",
+  "description": "video chat de entrevista",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
